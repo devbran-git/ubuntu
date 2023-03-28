@@ -55,7 +55,7 @@ const cardsData = [
   },
 ];
 
-const mediaQuery = window.matchMedia("(max-width: 415px)");
+const mediaQuery = window.matchMedia("(max-width: 769px)");
 
 const sliderWrapper = document.querySelector(".slider-wrapper");
 const slider = document.querySelector(".slider");
